@@ -1,0 +1,20 @@
+{
+  "name": "tao-scss-grid",
+  "version": "0.0.1",
+  "description": "Scss grid",
+  "main": "grid.scss",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatau/tao-scss-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomatau/tao-scss-app/issues"
+  },
+  "homepage": "https://github.com/tomatau/tao-scss-grid#readme",
+  "author": "Thomas `tomatau` Hudspsith-Tatham",
+  "license": "MIT",
+  "dependencies": {
+    "tao-scss": "~0.3.0"
+  }
+}
